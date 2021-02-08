@@ -133,7 +133,7 @@ a.page-link,
         <ul class="navbar-nav mr-auto">
 
           <li class="nav-item ">
-            <a class="nav-link" href="">Cara Kerja</a>
+            <a class="nav-link" href="/carakerja">Cara Kerja</a>
           </li>
           
           <li class="nav-item ">

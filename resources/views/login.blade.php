@@ -221,7 +221,7 @@ _captchaForm=document.querySelector("#_g-recaptcha").closest("form");_captchaSub
            <input type="checkbox" class="custom-control-input" name="remember" id="customControlInline" value="1">
            <label class="custom-control-label" for="customControlInline">Remember me</label>
 
-           <small><a href="https://fundme.miguelvasquez.net/password/reset">Forgot Password?</a></small>
+           <small><a href="/lupaPw">Forgot Password?</a></small>
          </div>
           <button type="submit" class="btn btn-block mt-2 py-2 btn-primary font-weight-light">Sign In</button>
                       <small class="btn-block text-center">protected by reCAPTCHA <a href="https://policies.google.com/privacy" target="_blank">Privacy</a> - <a href="https://policies.google.com/terms" target="_blank">Terms</a></small>

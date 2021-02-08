@@ -133,11 +133,11 @@ a.page-link,
         <ul class="navbar-nav mr-auto">
 
           <li class="nav-item ">
-            <a class="nav-link" href="https://fundme.miguelvasquez.net/page/how-it-works">Cara Kerja</a>
+            <a class="nav-link" href="/carakerja">Cara Kerja</a>
           </li>
           
           <li class="nav-item ">
-            <a class="nav-link" href="https://fundme.miguelvasquez.net/page/how-it-works">Produk dan Layanan</a>
+            <a class="nav-link" href="/produk">Produk dan Layanan</a>
           </li>
           
           
@@ -150,7 +150,7 @@ a.page-link,
 
           
           <li class="nav-item mr-1">
-            <a class="nav-link" href="https://fundme.miguelvasquez.net/login">Login</a>
+            <a class="nav-link" href="/login">Login</a>
           </li>
           
           <li class="nav-item">
@@ -178,7 +178,7 @@ a.page-link,
 <div class="col-md-12">
 	<div class="d-flex justify-content-center">
 
-        <form action="https://fundme.miguelvasquez.net/login" method="post" class="login-form text-left " name="form" id="signup_form">
+        <form action="/login" method="post" class="login-form text-left " name="form" id="signup_form">
 
           <input type="hidden" name="_token" value="OUT1FCsG4LSPcX14RcadX6MkLuHBQ3VrTXdV3qZE">
                       <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
